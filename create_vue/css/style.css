@@ -1,0 +1,9 @@
+﻿body,html{font-family: "微软雅黑";}
+body,html,h1,h2,h3,h4,h5,h6,ul,ol,li,p{padding: 0;margin: 0;}
+
+body{background:#f1f1f1;}
+.wrap{width: 900px;margin: 0 auto;padding: 20px 40px;background:#fff; border: 1px solid #ccc;box-shadow: 0 3px 9px rgba(0,0,0,.5);}
+.wrap h1{margin-bottom: 10px;}
+.wrap h2{margin: 10px 0;}
+.wrap ul{padding-left: 3%;}
+.wrap p{margin: 10px 0;}
